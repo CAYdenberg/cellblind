@@ -1,0 +1,28 @@
+* {
+	box-sizing: border-box;
+}
+
+#container {
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.cell {
+	width: 256px;
+	height: 256px;
+	float:left;
+}
+
+.cell img {
+	display: block;
+	margin: auto;
+}
+
+#choose {
+	display: inline;
+	float: left;
+}
+
+#choose input{
+	display: block;
+}
